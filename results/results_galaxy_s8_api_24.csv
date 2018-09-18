@@ -1,0 +1,7 @@
+Test,JSON Size,Write JSON to File,JSON.org,Gson,Immutables.org
+1.1,69.4KB,0.939ms,5.52ms,4.19ms,1.30ms
+1.2,1.73MB,14.5ms,148ms,80.8ms,25.8ms
+2,2.91MB,23.6ms,205ms,114ms,44.0ms
+3,625KB,5.86ms,62.5ms,76.3ms,16.9ms
+4,4.06MB,31.8ms,387ms,253ms,91.4ms
+5,3.59MB,28.0ms,368ms,250ms,118ms
