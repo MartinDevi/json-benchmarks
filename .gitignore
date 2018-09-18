@@ -1,0 +1,28 @@
+#Global git ignore file, which should be the only file which contains ignored items
+.DS_Store
+.DS_Store?
+
+Thumbs.db
+
+#Eclipse
+.project
+.classpath
+.settings
+
+#IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+**/.idea
+
+!**/.idea/fileTemplates
+!**/.idea/codeStyleSettings.xml
+
+#Ant
+build.xml
+local.properties
+
+#Android Studio
+.gradle
+build/
+captures/
