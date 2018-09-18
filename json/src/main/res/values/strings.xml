@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Json Performance</string>
+    <string name="tests_done">Tests Done</string>
+</resources>
